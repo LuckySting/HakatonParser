@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Профильные хакатоны</NAME>
+    <INTRO>&lt;p&gt;Информация по собранным в результате работы профильным хакатонам.&lt;/p&gt;</INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>50</ENTBYPAGE>
+    <ENTRIES>
+    <ENTRY>
+        <CONCEPT>ИТ-КУБОК ГОЛДБЕРГА-2019</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: строительство машин Голдберга среди ИТ-компаний Новосибирска.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 1 марта 2019 года&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Новосибирск&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://leader-id.ru/event/14291/" data-mce-href="https://leader-id.ru/event/14291/"&gt;https://leader-id.ru/event/14291/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+
+    
+    <ENTRY>
+        <CONCEPT>SNA Hackathon 2019</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;:&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://mlbootcamp.ru/round/17/tasks/" data-mce-href="https://mlbootcamp.ru/round/17/tasks/"&gt;https://mlbootcamp.ru/round/17/tasks/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон Phystech Genesis</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;На хакатоне будет предложено два трека:&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 23-24 февраля 2019 года&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://pgenesis.ru/february" data-mce-href="http://pgenesis.ru/february"&gt;http://pgenesis.ru/february&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Нейрохакатон</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: решение задач в области нейротехнологий с целью развития ключевых сегментов рынка Нейронет НТИ.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 19-21 февраля 2019 года&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Томск&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://leader-id.ru/event/15391/" data-mce-href="https://leader-id.ru/event/15391/"&gt;https://leader-id.ru/event/15391/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Credits online-hackathon</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 8 декабря-6 января&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://credits.com/en/Home/New_Ins/4194" data-mce-href="https://credits.com/en/Home/New_Ins/4194"&gt;https://credits.com/en/Home/New_Ins/4194&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>GIS Tech Hack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: ML/Computer Vision для геоданных и конкурс идей на тему применения дронов для авиакомпаний&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 14-15декабря&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://gistechrussia.ru/" data-mce-href="http://gistechrussia.ru/"&gt;http://gistechrussia.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Hackathon RAIF 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема : Machine Learning&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 23 октября&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://raif.jet.su/hackathon/" data-mce-href="http://raif.jet.su/hackathon/"&gt;http://raif.jet.su/hackathon/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Kaspersky Start Russia</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема : конкурс идей по поиску и защите от угроз будущего&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: финал 13 декабря&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://www.kasperskystart.com" data-mce-href="http://www.kasperskystart.com"&gt;http://www.kasperskystart.com&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>JETHACK</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема : решение задачи по соотношению облака точек заданной 3D-модели&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 20-21 октября&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://job.jet.su/khakaton/" data-mce-href="https://job.jet.su/khakaton/"&gt;https://job.jet.su/khakaton/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>MIX HACK</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Решения актуальных задач рынка труда в условиях перехода к Цифровой экономике.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 5 сентября – Отбор команд&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://expo.trainings.ru/hackathon" data-mce-href="http://expo.trainings.ru/hackathon"&gt;http://expo.trainings.ru/hackathon&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Ucraft Awards</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: веб-сайт билдинг&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt; : 31 июля - 31 августа&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://awards.ucraft.ru" data-mce-href="https://awards.ucraft.ru"&gt;https://awards.ucraft.ru&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон для школьников в AR/VR среде.</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Урбанистика и городское планирование&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 31 августа&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://evtoolbox.ru/projects/hakaton-na-go/" data-mce-href="http://evtoolbox.ru/projects/hakaton-na-go/"&gt;http://evtoolbox.ru/projects/hakaton-na-go/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>NaviHack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: работа с кейсами организаторов или реализация своих идей, используя платформу для глобальной адресации Naviaddress&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 20-30 сентября&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://bit.ly/2NHrLLx" data-mce-href="http://bit.ly/2NHrLLx"&gt;http://bit.ly/2NHrLLx&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>PIK Digital Day</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: поиск готовых ИТ-решений для строительства&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 13 июня -09 июля&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://day.pik.digital/" data-mce-href="https://day.pik.digital/"&gt;https://day.pik.digital/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Smart-City 2018 Vitebsk</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Модернизация города Витебска&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 22-24 июня Витебск&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://it-events.com/events/12028" data-mce-href="https://it-events.com/events/12028"&gt;https://it-events.com/events/12028&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>DeepHack.Сhat</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Создание умных чатботов&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 2-8 июля&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://deephack.me/chat" data-mce-href="http://deephack.me/chat"&gt;http://deephack.me/chat&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Команда приложения Photo Lab проводит Хакатон к ЧМ-2018.</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: создание мобильного приложения или web-сервиса для болельщиков на основе технологий Photo Lab&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 10-12 июня&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://hack.photolab.me/" data-mce-href="http://hack.photolab.me/"&gt;http://hack.photolab.me/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Yandex.Taxi Coding Fest</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Транспорт&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Отборочный тур 14–21 июля, Финальный тур 28 июля&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://taxi.yandex.ru/action/ytcf/coding_fest" data-mce-href="https://taxi.yandex.ru/action/ytcf/coding_fest"&gt;https://taxi.yandex.ru/action/ytcf/coding_fest&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>AI.Hack – серия хакатонов в Москве и Санкт-Петербурге</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (9-11 марта);&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://aihack.ai-hub.ru/" data-mce-href="http://aihack.ai-hub.ru/"&gt;http://aihack.ai-hub.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон "ОТТЕПЕЛЬ"</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Саратов (23-25 марта)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Саратов&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://ottepel.youcon.ru/" data-mce-href="http://ottepel.youcon.ru/"&gt;http://ottepel.youcon.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон по генерации идей в поддержку российского параатлета Дмитрия Павленко</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (24 марта)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://mospolytech.ru/news_new.php?id=10310" data-mce-href="http://mospolytech.ru/news_new.php?id=10310"&gt;http://mospolytech.ru/news_new.php?id=10310&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Федеральный хакатон Лиги Роботов</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (26-30 марта)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://ligarobotov.ru/news/2018/02/13/federalnyjj-khakaton/" data-mce-href="https://ligarobotov.ru/news/2018/02/13/federalnyjj-khakaton/"&gt;https://ligarobotov.ru/news/2018/02/13/federalnyjj-khakaton/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>HACK the Material!Mendeleev Hackathon Новые материалы и их компьютерный дизайн</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (31 марта - 1 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://hackathon.muctr.ru/" data-mce-href="http://hackathon.muctr.ru/"&gt;http://hackathon.muctr.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Blockchain Founder Hackathon</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Блокчейн Технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (31 марта - 1 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://blockchainfounder.ru/hackathon" data-mce-href="https://blockchainfounder.ru/hackathon"&gt;https://blockchainfounder.ru/hackathon&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>DATA MONITOR</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Социальные проекты на основе открытых данных&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (30 марта - 1 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://dm18.te-st.ru/" data-mce-href="https://dm18.te-st.ru/"&gt;https://dm18.te-st.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>SPbU GameJam 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (31 марта - 1 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://vk.com/spbu_gamejam" data-mce-href="https://vk.com/spbu_gamejam"&gt;https://vk.com/spbu_gamejam&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>HR HACKATHON RUSSIA</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: HR технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (4-5 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://hr-tech.ru/hackathon" data-mce-href="http://hr-tech.ru/hackathon"&gt;http://hr-tech.ru/hackathon&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>HAHATHON МТС 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: IT-технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Казань (7-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Казань&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://hahathonmts.ru/" data-mce-href="https://hahathonmts.ru/"&gt;https://hahathonmts.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>АВИАХАКАТОН</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Информационные технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (6-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://mai.ru/aviahackathon/" data-mce-href="https://mai.ru/aviahackathon/"&gt;https://mai.ru/aviahackathon/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Unblock Blockchain Hackathon</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (6-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://binarydistrict.com/ru/courses/blockchain-hackathon/" data-mce-href="https://binarydistrict.com/ru/courses/blockchain-hackathon/"&gt;https://binarydistrict.com/ru/courses/blockchain-hackathon/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>HACK THE MEDIA</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Медиа-технологии,&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (7-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://hackthemedia.ru/" data-mce-href="https://hackthemedia.ru/"&gt;https://hackthemedia.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Unity AI хакатон</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (7-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://uugspb.club/hack2/index.html" data-mce-href="http://uugspb.club/hack2/index.html"&gt;http://uugspb.club/hack2/index.html&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: разработка игр&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Екатеринбург (7-8 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Екатеринбург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://eventskbkontur.timepad.ru/event/689074/" data-mce-href="https://eventskbkontur.timepad.ru/event/689074/"&gt;https://eventskbkontur.timepad.ru/event/689074/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+
+    <ENTRY>
+        <CONCEPT>ВЗЛЁТ - Маркетинг в киберспорте</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Digital-коммуникации&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Онлайн (9-27 марта) и&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://digital-vzlet.ru/" data-mce-href="http://digital-vzlet.ru/"&gt;http://digital-vzlet.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>PandaHack 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: информационные технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва ( 15 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://pandahack.mirea.ru/" data-mce-href="https://pandahack.mirea.ru/"&gt;https://pandahack.mirea.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Виртуальная и дополнительная реальность (AVRA HACK)</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: VR- технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (13 - 15 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://avrahackathon.ru/" data-mce-href="https://avrahackathon.ru/"&gt;https://avrahackathon.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>AplaBlockchainHack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: прикладные игры&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва ( 13 - 15 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://actum.online/events/aplablockchainhack/" data-mce-href="http://actum.online/events/aplablockchainhack/"&gt;http://actum.online/events/aplablockchainhack/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Hackaton Barnaul</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Барнаул ( 13 - 15 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Барнаул&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://actum.online/events/hackaton-barnaul/" data-mce-href="http://actum.online/events/hackaton-barnaul/"&gt;http://actum.online/events/hackaton-barnaul/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>HACKUNIVERSITY</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Всероссийский Университетский МегаХакатон&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (13-15 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://hackuniversity.ru/" data-mce-href="http://hackuniversity.ru/"&gt;http://hackuniversity.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон "Против пожара"</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Дизайн- мышление&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (21 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://dtcenter.ru/hackathon/fire" data-mce-href="https://dtcenter.ru/hackathon/fire"&gt;https://dtcenter.ru/hackathon/fire&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>do_action moscow</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: социальные технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (21 - 22 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://it-events.com/events/11686" data-mce-href="https://it-events.com/events/11686"&gt;https://it-events.com/events/11686&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Hack.Moscow</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (20- 22 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://hack.moscow/" data-mce-href="https://hack.moscow/"&gt;https://hack.moscow/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>SmartMail Hack 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (20- 22 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://corp.mail.ru/ru/press/events/452/" data-mce-href="https://corp.mail.ru/ru/press/events/452/"&gt;https://corp.mail.ru/ru/press/events/452/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>BlockChain Cup</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (21 - 22 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://blockchaincup.info/" data-mce-href="http://blockchaincup.info/"&gt;http://blockchaincup.info/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Педагогический хакатон Юга России «Инновационные образовательные решения».</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: сфера образования&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Ростов-на-Дону (20 - 22 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Ростов-на-Дону&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://pedhack.pro/" data-mce-href="http://pedhack.pro/"&gt;http://pedhack.pro/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Четвертый Агрохакатон в сфере агродизайна и сити-фермерства (Агрохакатон)</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: создание умных конструкций для выращивания съедобных и лекарственных растений в городских условиях.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (27 - 29 апреля)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://agrohack.ru/" data-mce-href="http://agrohack.ru/"&gt;http://agrohack.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>LifeCode 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Хакатон по биоинформатике в НГУ&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва, (30 - 2 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://lifecode.site/" data-mce-href="http://lifecode.site/"&gt;http://lifecode.site/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>UniversaHack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Владивосток (11-13 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Владивосток&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://leader-id.ru/event/6498/" data-mce-href="https://leader-id.ru/event/6498/"&gt;https://leader-id.ru/event/6498/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон №1</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Хакатон для медиахудожников&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург, (12 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://vk.com/media_hack" data-mce-href="https://vk.com/media_hack"&gt;https://vk.com/media_hack&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>bizHack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Чемпионат «IT-решения и инновации для бизнеса»&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва, (12-13 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://it-events.com/events/11738" data-mce-href="https://it-events.com/events/11738"&gt;https://it-events.com/events/11738&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон Нейростарт</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Нейротехнологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Владивосток, (15-19 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Владивосток&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://neurostart.ru/" data-mce-href="https://neurostart.ru/"&gt;https://neurostart.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>1C «iS THiS DESiGN»</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: 1С:Предприятие.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва, (17−18 мая) Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://isthisdesign.org/" data-mce-href="https://isthisdesign.org/"&gt;https://isthisdesign.org/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>ActumDigitalHack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Санкт-Петербург (18-20 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Санкт-Петербург&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://actum.online/events/actumdigitalhack/" data-mce-href="http://actum.online/events/actumdigitalhack/"&gt;http://actum.online/events/actumdigitalhack/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон "Цифровой завод"</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (19-20 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://ai-community.com/sibur-hackathon-moscow#rec49369325" data-mce-href="http://ai-community.com/sibur-hackathon-moscow#rec49369325"&gt;http://ai-community.com/sibur-hackathon-moscow#rec49369325&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон Proof-of-Skill</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (19-20 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Москва&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://bankexfoundation.org/hackathon" data-mce-href="https://bankexfoundation.org/hackathon"&gt;https://bankexfoundation.org/hackathon&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон «Серьезные игры»</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Томск (19-20 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Томск&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://it-events.com/events/11894" data-mce-href="https://it-events.com/events/11894"&gt;https://it-events.com/events/11894&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Fashion Technology Hackathon 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Мода+Технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: Москва (18-20 мая)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://rusfashion.tech/hackathon2018" data-mce-href="http://rusfashion.tech/hackathon2018"&gt;http://rusfashion.tech/hackathon2018&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>NeuroHive 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Информационные технологии&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 21 мая дедлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://neurohive.io/#about" data-mce-href="https://neurohive.io/#about"&gt;https://neurohive.io/#about&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>SMART_Hack</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Создание первого умного квартала&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 22-23 мая&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://www.hackingdays.ru/" data-mce-href="http://www.hackingdays.ru/"&gt;http://www.hackingdays.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Future tech</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Хакатон по блокчейн - технологиям&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 22-23 мая&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://blockchainweek.moscow/hakaton.php" data-mce-href="http://blockchainweek.moscow/hakaton.php"&gt;http://blockchainweek.moscow/hakaton.php&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Хакатон по парсингу данных</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: Парсинг данных&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 26-1 июня&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://lomonosov-msu.ru/rus/event/5026/" data-mce-href="https://lomonosov-msu.ru/rus/event/5026/"&gt;https://lomonosov-msu.ru/rus/event/5026/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>Digital Aviation Hackathon 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема:&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 31 мая&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="https://mai.ru/press/events/detail.php?ID=92335" data-mce-href="https://mai.ru/press/events/detail.php?ID=92335"&gt;https://mai.ru/press/events/detail.php?ID=92335&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+    <ENTRY>
+        <CONCEPT>M.SMART ХАКАТОН в ритейле</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt;&lt;/p&gt;
+          &lt;p&gt;Тема: VR в ритейле&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Даты:&lt;/strong&gt;&lt;/p&gt;
+              &lt;p&gt;: 2-3 июня&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Город:&lt;/strong&gt;&lt;/p&gt;
+                  &lt;p&gt;Онлайн&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Ссылка:&lt;/strong&gt;&lt;/p&gt;
+                      &lt;p&gt;&lt;a href="http://hackathon.mvideo.ru/" data-mce-href="http://hackathon.mvideo.ru/"&gt;http://hackathon.mvideo.ru/&lt;/a&gt;&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    
+</ENTRIES>
+  </INFO>
+</GLOSSARY>

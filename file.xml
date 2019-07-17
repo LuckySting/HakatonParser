@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Профильные хакатоны</NAME>
+    <INTRO>&lt;p&gt;Информация по собранным в результате работы профильные хакатоны.&lt;/p&gt;</INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>50</ENTBYPAGE>
+    <ENTRIES>
+        <ENTRY>
+        <CONCEPT>HAHATHON МТС 2018</CONCEPT>
+        <DEFINITION>
+        &lt;p&gt;Тема:&lt;/p&gt;
+          &lt;p&gt;Тема: IT-технологии&lt;/p&gt;
+        &lt;p&gt;Даты:&lt;/p&gt;
+              &lt;p&gt;: Казань (7-8 апреля)&lt;/p&gt;
+        &lt;p&gt;Город:&lt;/p&gt;
+                  &lt;p&gt;Казань&lt;/p&gt;
+        &lt;p&gt;Ссылка:&lt;/p&gt;
+                      &lt;p&gt;https://hahathonmts.ru/&lt;/p&gt;
+        </DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>

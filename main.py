@@ -1,4 +1,5 @@
 import csv
+import json
 
 import requests
 import pyquery
@@ -53,8 +54,6 @@ hacks = [pq(hack).text() for hack in pq('.t527__wrapperleft')]
 data = [get_data(hack) for hack in hacks]
 data = [i for i in data if i]
 
-keys = data[0].keys()
-with open('hacks.csv', 'w') as output_file:
-    dict_writer = csv.DictWriter(output_file, keys)
-    dict_writer.writeheader()
-    dict_writer.writerows(data)
+
+with open('hacks.json', 'w') as output_file:
+    json.dump(data, output_file)
